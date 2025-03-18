@@ -1,6 +1,6 @@
 # TuringComplete Save Description
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nAkqT8UcRKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Видео превью](https://img.youtube.com/vi/nAkqT8UcRKM/maxresdefault.jpg)](https://youtu.be/nAkqT8UcRKM)
 
 This is my save for the game TuringComplete. It features a processor built on the RISC-V architecture with a simplified bus system. Additionally, it includes a slightly modified version of Doom’s code from the repository [https://github.com/smunaut/doom_riscv](https://github.com/smunaut/doom_riscv) adapted to run on this system. The project is intended for entertaining and educational purposes and is not meant to be taken too seriously.
 
