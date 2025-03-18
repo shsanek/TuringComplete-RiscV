@@ -1,0 +1,13 @@
+inpt_to_reg4
+inpt_to_reg5
+reg5_to_reg1
+reg4_to_reg2
+OR
+reg3_to_reg0
+reg5_to_reg1
+reg4_to_reg2
+NAND
+reg3_to_reg1
+reg0_to_reg2
+AND
+reg3_to_out
